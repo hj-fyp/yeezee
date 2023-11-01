@@ -7,7 +7,7 @@ library(tidyverse)
 library(readxl)
 
 # import data from excel
-ivf_df <- read_excel("I:/UBD FYP/ar-2017-2018 ver2.xlsx", sheet = "Q4 data")
+ivf_df <- read_excel("I:/UBD FYP/dataset_ivf.xlsx", sheet = "Q4 data")
 
 
 ivf_df <-
